@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Dashboard",
+    "\\database",
+    "\\database\\migrations",
+    "\\resources\\views",
+    "\\resources\\views\\Admin",
+    "\\resources\\views\\Admin\\Treasuries",
+    "\\resources\\views\\Admin\\Treasuries\\SubTreasuries",
+    "\\routes"
+  ],
+  "SelectedNode": "\\database\\migrations\\2022_12_24_215738_create_stores_table.php",
+  "PreviewInSolutionExplorer": false
+}
